@@ -17,6 +17,7 @@ and open the template in the editor.
         ssbgb
         egerg
         echp ' from git hub web'
+        edit frm web2
         ?>
     </body>
 </html>
