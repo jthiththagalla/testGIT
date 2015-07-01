@@ -13,6 +13,9 @@ and open the template in the editor.
         <?php
         // put your code here
         echo 'My first Project';
+        gr4g4g4tgl
+        ssbgb
+        egerg
         ?>
     </body>
 </html>
